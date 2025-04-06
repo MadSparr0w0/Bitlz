@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|c:\\users\\home\\source\\repos2\\pricecategory\\pricecategory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|solutionrelative:pricecategory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|C:\\Users\\Home\\source\\repos2\\PriceCategory\\pricecategory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|solutionrelative:pricecategory\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|C:\\Users\\Home\\source\\repos2\\PriceCategory\\pricecategory\\maxvtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|solutionrelative:pricecategory\\maxvtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|c:\\users\\home\\source\\repos2\\pricecategory\\pricecategory\\solvecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|solutionrelative:pricecategory\\solvecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|C:\\Users\\Home\\source\\repos2\\PriceCategory\\pricecategory\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|solutionrelative:pricecategory\\historyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|C:\\Users\\Home\\source\\repos2\\PriceCategory\\pricecategory\\verticaltableparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03924068-C421-4236-9A5F-E20A2D2544E9}|PriceCategory\\PriceCategory.csproj|solutionrelative:pricecategory\\verticaltableparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\MainForm.cs",
+              "RelativeDocumentMoniker": "PriceCategory\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PriceCategory\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:17:23.315Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VerticalTableParser.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\VerticalTableParser.cs",
+              "RelativeDocumentMoniker": "PriceCategory\\VerticalTableParser.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\VerticalTableParser.cs",
+              "RelativeToolTip": "PriceCategory\\VerticalTableParser.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:44:06.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\HistoryForm.cs",
+              "RelativeDocumentMoniker": "PriceCategory\\HistoryForm.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\HistoryForm.cs",
+              "RelativeToolTip": "PriceCategory\\HistoryForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:05:51.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaxVTForm.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\MaxVTForm.cs",
+              "RelativeDocumentMoniker": "PriceCategory\\MaxVTForm.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\MaxVTForm.cs",
+              "RelativeToolTip": "PriceCategory\\MaxVTForm.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:34:00.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\MainForm.cs",
+              "RelativeDocumentMoniker": "PriceCategory\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\MainForm.cs",
+              "RelativeToolTip": "PriceCategory\\MainForm.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAswMwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T06:07:28.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolveCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\SolveCategory.cs",
+              "RelativeDocumentMoniker": "PriceCategory\\SolveCategory.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos2\\PriceCategory\\PriceCategory\\SolveCategory.cs",
+              "RelativeToolTip": "PriceCategory\\SolveCategory.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwLIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:14:50.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
